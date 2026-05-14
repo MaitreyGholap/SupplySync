@@ -1,5 +1,7 @@
 # SupplySync — Smart Supply Chain & Inventory Intelligence System
 
+**Live Demo:** [https://supply-sync-xztv-cu45pk6uu-maitreygholaps-projects.vercel.app/dashboard](https://supply-sync-xztv-cu45pk6uu-maitreygholaps-projects.vercel.app/dashboard)
+
 SupplySync is a premium, data-driven supply chain management and inventory intelligence platform. Designed with a focus on visual excellence and actionable insights, it helps businesses monitor stock movement, identify risks, and support strategic inventory decisions.
 
 ## Project Overview
