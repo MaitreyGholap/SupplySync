@@ -2,7 +2,7 @@
 
 SupplySync is a premium, data-driven supply chain management and inventory intelligence platform. Designed with a focus on visual excellence and actionable insights, it helps businesses monitor stock movement, identify risks, and support strategic inventory decisions.
 
-## 🚀 Project Overview
+## Project Overview
 This repository contains the **Frontend Architecture** for SupplySync. It features a modern "Bento Grid" dashboard, glassmorphism UI components, and a simulated API layer to demonstrate a full-featured supply chain environment.
 
 ### Core Features
@@ -12,7 +12,7 @@ This repository contains the **Frontend Architecture** for SupplySync. It featur
 - **Demand Forecasting**: Interactive charts showing actual vs. predicted demand trends.
 - **Premium UX**: Smooth Framer Motion animations, skeleton loading states, and a refined dark-mode aesthetic.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Library**: React 18
 - **Build Tool**: Vite
 - **Styling**: Tailwind CSS 4, Vanilla CSS
@@ -20,7 +20,7 @@ This repository contains the **Frontend Architecture** for SupplySync. It featur
 - **Icons**: Lucide React
 - **Charts**: Chart.js / React-Chartjs-2
 
-## 📦 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v18 or higher)
@@ -41,7 +41,7 @@ This repository contains the **Frontend Architecture** for SupplySync. It featur
    npm run dev
    ```
 
-## 🏗️ Project Structure
+## Project Structure
 ```text
 client/
 ├── src/
@@ -55,7 +55,7 @@ client/
 └── index.html            # Entry point
 ```
 
-## 🔮 Future Roadmap
+## Future Roadmap
 - [ ] **Backend Integration**: Node.js/Express REST API.
 - [ ] **Database**: MongoDB for persistent storage.
 - [ ] **AI/ML Service**: Python service for real-time forecasting using Scikit-learn.
